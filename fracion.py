@@ -15,3 +15,4 @@ class Fraccion:
 miF = Fraccion(2,3)
 print(miF)
 print("Comí", miF , "de la pizza")
+print(miF)
