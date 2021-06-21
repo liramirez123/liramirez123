@@ -1,6 +1,6 @@
 ## Hi there 👋
-### 🔭 I’m currently working on RPA develops.
-### 🌱 I’m currently learning Python
+-🔭 I’m currently working on RPA develops.
+-🌱 I’m currently learning Python
 
 <!--
 **liramirez123/liramirez123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
