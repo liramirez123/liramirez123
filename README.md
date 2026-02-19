@@ -16,7 +16,7 @@ Desarrollé un chatbot en **React** conectado a **SAP HANA Cloud** para consulta
 - 📋 **Power Apps:** Diseño de arquitectura Front/Backend y desarrollo de soluciones completas
 - 🔍 **Identificación de Procesos:** Evaluación y descubrimiento de procesos automatizables
 - 📊 **Análisis de Factibilidad:** Priorización basada en complejidad y ROI
-- 🎯 **RPA:** Implementación con **Automation Anywhere**
+- 🎯 **RPA:** Implementación con **Automation Anywhere** y **UiPath**
 - 🚀 **Puesta en Producción:** Implementación y capacitación de usuarios
 
 ## 🛠️ Stack Tecnológico
@@ -33,6 +33,7 @@ Desarrollé un chatbot en **React** conectado a **SAP HANA Cloud** para consulta
 ![SAP HANA](https://img.shields.io/badge/-SAP%20HANA-0FAAFF?style=flat&logo=sap&logoColor=white)
 
 ### Automatización y RPA
+![UiPath](https://img.shields.io/badge/-UiPath-FA4616?style=flat&logo=uipath&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat&logo=microsoft&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/-Power%20Apps-742774?style=flat&logo=microsoft&logoColor=white)
 ![Automation Anywhere](https://img.shields.io/badge/-Automation%20Anywhere-FF6C37?style=flat&logo=automationanywhere&logoColor=white)
@@ -54,10 +55,11 @@ Desarrollé un chatbot en **React** conectado a **SAP HANA Cloud** para consulta
 
 ## 📈 Servicios y Capacidades
 
-- ✅ **Automatización de Procesos:** Power Automate, Python, Automation Anywhere
+- ✅ **Automatización de Procesos:** Power Automate, Python, Automation Anywhere, UiPath
 - ✅ **Desarrollo Full-Stack:** React, Node.js, APIs REST
 - ✅ **Integración SAP:** SAP HANA Cloud, consultas en tiempo real
 - ✅ **Power Platform:** Power Apps, Power Automate
+- ✅ **RPA con UiPath:** Diseño e implementación de robots, UiPath Studio, Orchestrator
 - ✅ **Análisis de Datos:** Web Scraping, procesamiento con Python
 - ✅ **Documentación Técnica:** Diseño funcional y técnico de soluciones
 - ✅ **Gestión de Proyectos:** Proyectos de RPA y transformación digital
